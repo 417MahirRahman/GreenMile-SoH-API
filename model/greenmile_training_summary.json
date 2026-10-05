@@ -1,0 +1,11 @@
+{
+  "best_epoch": 963,
+  "train_windows": 426,
+  "validation_windows": 24,
+  "test_windows": 123,
+  "metrics": {
+    "RMSE": 0.026133073014655766,
+    "MAE": 0.01895393431186676,
+    "R2": 0.8763089776039124
+  }
+}

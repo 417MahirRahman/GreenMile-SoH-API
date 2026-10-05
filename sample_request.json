@@ -1,0 +1,95 @@
+{
+  "batteryId": "battery-001",
+  "records": [
+    {
+      "cycle_input_raw": 10.0,
+      "voltage_mean_v": 3.5,
+      "voltage_min_v": 2.38,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.5,
+      "temperature_max_c": 39.8,
+      "discharge_duration_s": 3160.0
+    },
+    {
+      "cycle_input_raw": 11.0,
+      "voltage_mean_v": 3.498,
+      "voltage_min_v": 2.379,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.55,
+      "temperature_max_c": 39.849999999999994,
+      "discharge_duration_s": 3158.0
+    },
+    {
+      "cycle_input_raw": 12.0,
+      "voltage_mean_v": 3.496,
+      "voltage_min_v": 2.378,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.6,
+      "temperature_max_c": 39.9,
+      "discharge_duration_s": 3156.0
+    },
+    {
+      "cycle_input_raw": 13.0,
+      "voltage_mean_v": 3.494,
+      "voltage_min_v": 2.377,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.65,
+      "temperature_max_c": 39.949999999999996,
+      "discharge_duration_s": 3154.0
+    },
+    {
+      "cycle_input_raw": 14.0,
+      "voltage_mean_v": 3.492,
+      "voltage_min_v": 2.376,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.7,
+      "temperature_max_c": 40.0,
+      "discharge_duration_s": 3152.0
+    },
+    {
+      "cycle_input_raw": 15.0,
+      "voltage_mean_v": 3.49,
+      "voltage_min_v": 2.375,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.75,
+      "temperature_max_c": 40.05,
+      "discharge_duration_s": 3150.0
+    },
+    {
+      "cycle_input_raw": 16.0,
+      "voltage_mean_v": 3.488,
+      "voltage_min_v": 2.374,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.8,
+      "temperature_max_c": 40.099999999999994,
+      "discharge_duration_s": 3148.0
+    },
+    {
+      "cycle_input_raw": 17.0,
+      "voltage_mean_v": 3.486,
+      "voltage_min_v": 2.3729999999999998,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.85,
+      "temperature_max_c": 40.15,
+      "discharge_duration_s": 3146.0
+    },
+    {
+      "cycle_input_raw": 18.0,
+      "voltage_mean_v": 3.484,
+      "voltage_min_v": 2.372,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.9,
+      "temperature_max_c": 40.199999999999996,
+      "discharge_duration_s": 3144.0
+    },
+    {
+      "cycle_input_raw": 19.0,
+      "voltage_mean_v": 3.482,
+      "voltage_min_v": 2.371,
+      "current_abs_mean_a": 1.85,
+      "temperature_mean_c": 32.95,
+      "temperature_max_c": 40.25,
+      "discharge_duration_s": 3142.0
+    }
+  ]
+}

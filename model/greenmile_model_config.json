@@ -1,0 +1,22 @@
+{
+  "model_name": "GreenMileLSTM",
+  "input_size": 7,
+  "hidden_size": 64,
+  "num_layers": 1,
+  "dropout": 0.2,
+  "sequence_length": 10,
+  "learning_rate": 0.001,
+  "training_batteries": [
+    "B0005",
+    "B0006",
+    "B0007"
+  ],
+  "validation_strategy": "last 10 percent of each training battery",
+  "unseen_test_battery": "B0018",
+  "test_metrics": {
+    "RMSE": 0.026133073014655766,
+    "MAE": 0.01895393431186676,
+    "R2": 0.8763089776039124
+  },
+  "seed": 42
+}

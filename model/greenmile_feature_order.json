@@ -1,0 +1,9 @@
+[
+  "cycle_input_raw",
+  "voltage_mean_v",
+  "voltage_min_v",
+  "current_abs_mean_a",
+  "temperature_mean_c",
+  "temperature_max_c",
+  "discharge_duration_s"
+]
